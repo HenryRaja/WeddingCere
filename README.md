@@ -1,2 +1,1 @@
-# WeddingCere
-Henry weds Preetha
+# Karthi & Priya Wedding Website
